@@ -1,7 +1,11 @@
 # Java Swing シンプルカウンターアプリ
 
 Java の学習の一環として作成した、
-0〜9999 までカウントできるシンプルな GUI アプリです。
+0〜9999 までカウントできるシンプルな GUI アプリです。  
+
+  ![Screenshot1](https://raw.githubusercontent.com/MikiMameme/java-swing-counter/b5eea738d635cb8801a00b78c8b12e91c171e414/%E3%82%AB%E3%82%A6%E3%83%B3%E3%82%BF%E3%83%BC%E3%82%A2%E3%83%97%E3%83%AA/screenshot1.png))
+  ![Screenshot2](https://raw.githubusercontent.com/MikiMameme/java-swing-counter/b5eea738d635cb8801a00b78c8b12e91c171e414/%E3%82%AB%E3%82%A6%E3%83%B3%E3%82%BF%E3%83%BC%E3%82%A2%E3%83%97%E3%83%AA/screenshot2.png))
+  ![Screenshot3](https://raw.githubusercontent.com/MikiMameme/java-swing-counter/b5eea738d635cb8801a00b78c8b12e91c171e414/%E3%82%AB%E3%82%A6%E3%83%B3%E3%82%BF%E3%83%BC%E3%82%A2%E3%83%97%E3%83%AA/screenshot3.png)
 
 ## 🔧 機能
 
