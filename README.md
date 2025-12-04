@@ -13,10 +13,8 @@ Java の学習の一環として作成した、
 
 ## 👨‍💻 開発環境
 
-Java 17
-
+Java 21
 Eclipse
-
 Swing
 
 ## 💡 目的
