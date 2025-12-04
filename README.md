@@ -1,3 +1,8 @@
+[![Java](https://img.shields.io/badge/Java-17%2B-red?logo=openjdk&logoColor=white)](https://www.oracle.com/java/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Made with](https://img.shields.io/badge/Made%20with-ChatGPT-orange?logo=openai)](https://openai.com/)
+[![Author](https://img.shields.io/badge/Author-Miki%20Mame-lightgrey)](https://github.com/MikiMameme)
+
 # Java Swing シンプルカウンターアプリ
 
 Java の学習の一環として作成した、
